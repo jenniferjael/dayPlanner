@@ -1,35 +1,21 @@
-# dayPlanner
-# Instructor's Hints
+## dayPlanner: Unit 05 Third-Party APIs
+# Description
+This project was created to provide users with a daily planner where they can add events according to business hours from 10:00am to 17:00 pm. This planner also has the ability to display different colors according to past,present, and future events. If the event is set on the current hour, the textarea will display a red color, if the events were scheduled for hours before the current hour, the textarea will be display a gray color to indicate the past. Finnally, for events scheduled for after the current hours, the textarea will become green.
 
-## Date Object API
+# Story User
+as Web Developer, it is important to manage time and tasks. This planner will allow me to manage my time in a more productive way.
 
-I highly recommend that you guys use the date object as it is relatively easy
-to use and will be on more interviews than MomentJS will be. It is mainly
-because it is part of the native JS engine functionality.
+# how to use it
+User can add events and notes in the designaged time block and save them by giving a click on the save button.
+The events will persist even if the page gets refreshed.
 
-```
-var mons = ["Jan", "Feb", "Mar"];
-mons[(new Date()).getMonth()]
+# Images
 
-"Jan"
+<img src=“images/timeBlocks.png” alt=“time blocks” width=“50%” height=“50%“>
+<img src=“images/title.png” alt=“day planner and current day and time” width=“50%” height=“50%“>
 
-var days = ["Sunday", "Monday", "Tuesday"];
-days[(new Date()).getDay()]
+ # Results
+ The URL of the functional, deployed project: 
+ 
 
-"Tuesday"
 
-if(i === 12){
-    chosenTag.css(["background-color", "red"]);
-    chosenTag.addClass("red-class");
-}
-if((new Date()).getHours() === i){ // uses military time 0-23 for hours
-    chosenTag.addClass("red-class");
-}
-```
-
-## List of things needed
-
-* jQuery
-* Momentjs is allowed but not required
-* Date object usage is preferred
-* css classes/rules will need to be applied
