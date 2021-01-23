@@ -5,7 +5,7 @@ This project was created to provide users with a daily planner where they can ad
 # Story User
 as Web Developer, it is important to manage time and tasks. This planner will allow me to manage my time in a more productive way.
 
-# how to use it
+# How to use it
 User can add events and notes in the designaged time block and save them by giving a click on the save button.
 The events will persist even if the page gets refreshed.
 
@@ -16,8 +16,8 @@ The events will persist even if the page gets refreshed.
 
  # Results
  The URL of the functional, deployed project: 
- <https://github.com/jenniferjael/dayPlanner> 
- <https://jenniferjael.github.io/dayPlanner/>
+
+ # <https://jenniferjael.github.io/dayPlanner/>
 
  
 
