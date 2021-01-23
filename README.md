@@ -11,11 +11,14 @@ The events will persist even if the page gets refreshed.
 
 # Images
 
-<img src=“images/timeBlocks.png” alt=“time blocks” width=“50%” height=“50%“>
-<img src=“images/title.png” alt=“day planner and current day and time” width=“50%” height=“50%“>
+<img src=“images/timeBlocks.png” alt='time Blocks' width=“50%” height=“50%“>
+<img src=“images/title.png” alt='day planner and current day and time' width=“50%” height=“50%“>
 
  # Results
  The URL of the functional, deployed project: 
+ <https://github.com/jenniferjael/dayPlanner> 
+ <https://jenniferjael.github.io/dayPlanner/>
+
  
 
 
